@@ -1,4 +1,4 @@
-function skillMembers() {
+function skillsMembers() {
     var members = [
         { name: 'John', age: 25 },
         { name: 'Jane', age: 22 },
